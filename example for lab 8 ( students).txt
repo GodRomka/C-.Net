@@ -1,0 +1,8 @@
+Student List:
+1. John Smith
+2. Alice Johnson
+3. Michael Brown
+4. Sarah Davis
+5. Emily Wilson
+
+These students are enrolled in the Computer Science program for the 2024 academic year. They are participating in various projects and activities to enhance their learning experience.
